@@ -64,6 +64,3 @@ def table_view(data):
         table.add_row(element.values())
 
     return table
-
-print(credit_schedule(10, 10000, "01-01-2000", 10))
-# print(table_view(credit_schedule(5000000, 10, 120, '02-01-2000')))
